@@ -211,3 +211,6 @@ faiss_index/
 chroma_db_notebook/
 faiss_index_notebook/
 rag_vectorstore/
+qdrant_data/
+qdrant_easy/
+qdrant_ollama/
