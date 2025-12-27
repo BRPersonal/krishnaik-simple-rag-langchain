@@ -214,3 +214,4 @@ rag_vectorstore/
 qdrant_data/
 qdrant_easy/
 qdrant_ollama/
+.vscode/
